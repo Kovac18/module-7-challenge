@@ -30,3 +30,4 @@
   Once the dependencies are downloaded, type 'node index.js' into the terminal. Answer all the prompts to the best of your ability and your README file will be generated and ready for use.
  
   ## Walkthrough Video
+https://drive.google.com/file/d/1ZgHAucY8Fk2b0dqzz6Nf2eIV7_Laj6Id/view
